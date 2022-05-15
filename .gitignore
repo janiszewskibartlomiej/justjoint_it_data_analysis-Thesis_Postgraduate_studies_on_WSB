@@ -8,8 +8,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea/inspectionProfiles
-.idea/sonarlint
+.idea/inspectionProfiles/**
+.idea/sonarlint/**
 
 # AWS User-specific
 .idea/**/aws.xml

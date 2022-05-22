@@ -42,8 +42,8 @@ class DataProcessing:
         new_headers.append(f"{current_headers[5]}_from")
         new_headers.append(f"{current_headers[5]}_to")
         obligatory, optional = self.get_obligatory_and_optional_skills()
-        new_headers.append(obligatory)
-        new_headers.append(optional)
+        new_headers.extend(obligatory)
+        new_headers.extend(optional)
         return new_headers
 
 
@@ -51,3 +51,5 @@ if __name__ == '__main__':
     x = DataProcessing()
     y = x.load_data()
     pprint(x.headers_processing())
+    print()
+    pprint(len(x.headers_processing()))

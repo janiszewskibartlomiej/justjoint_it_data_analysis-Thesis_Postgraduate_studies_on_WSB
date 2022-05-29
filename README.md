@@ -1,4 +1,4 @@
-### Thesis -  Postgraduate studies on Python Developer WSB
+### Thesis - Postgraduate studies on Python Developer WSB
 
 ### Data analysis of Justjoint.it:
 
@@ -7,3 +7,8 @@
 ##### 2. Processing data
 
 ##### 3. Presentation all code and data in Jupiter Notebook
+
+### How to run:
+
+* `pip install -r requirements.txt`
+* `jupyter notebook`

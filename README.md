@@ -4,6 +4,6 @@
 
 ##### 1. Scraping all data - I created scraper in the past but in this project I use only created data file
 
-##### 2. Procesing data
+##### 2. Processing data
 
-##### 3. Presentation data in PowerBi 
+##### 3. Presentation all code and data in Jupiter Notebook

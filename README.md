@@ -12,3 +12,4 @@
 
 * `pip install -r requirements.txt`
 * `jupyter notebook`
+* Run all cell

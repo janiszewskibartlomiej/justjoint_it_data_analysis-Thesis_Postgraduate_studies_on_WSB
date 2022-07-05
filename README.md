@@ -20,3 +20,8 @@
 
 
 ![Optional skills](https://github.com/janiszewskibartlomiej/justjoint_it_data_analysis-Thesis_Postgraduate_studies_on_WSB/blob/master/screenshot_2022-05-30%2012h06_47_Anonymous.png "Optional skills")
+
+
+![Technologies](https://github.com/janiszewskibartlomiej/justjoint_it_data_analysis-Thesis_Postgraduate_studies_on_WSB/blob/master/screenshot_2022-05-30%2012h09_56_Anonymous.png "Technologies")
+
+![Seniority](https://github.com/janiszewskibartlomiej/justjoint_it_data_analysis-Thesis_Postgraduate_studies_on_WSB/blob/master/screenshot_2022-05-30%2012h12_13_Anonymous.png "Seniority")

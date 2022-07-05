@@ -13,3 +13,7 @@
 * `pip install -r requirements.txt`
 * `jupyter notebook`
 * Run all cell
+
+### Conlusions:
+
+![Obligatory skills](https://github.com/janiszewskibartlomiej/justjoint_it_data_analysis-Thesis_Postgraduate_studies_on_WSB/blob/master/screenshot_2022-05-30%2012h05_02_Anonymous.png)

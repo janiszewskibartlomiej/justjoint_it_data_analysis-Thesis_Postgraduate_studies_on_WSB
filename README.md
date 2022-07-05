@@ -16,4 +16,7 @@
 
 ### Conlusions:
 
-![Obligatory skills](https://github.com/janiszewskibartlomiej/justjoint_it_data_analysis-Thesis_Postgraduate_studies_on_WSB/blob/master/screenshot_2022-05-30%2012h05_02_Anonymous.png)
+![Obligatory skills](https://github.com/janiszewskibartlomiej/justjoint_it_data_analysis-Thesis_Postgraduate_studies_on_WSB/blob/master/screenshot_2022-05-30%2012h05_02_Anonymous.png "Obligatory skills")
+
+
+![Optional skills](https://github.com/janiszewskibartlomiej/justjoint_it_data_analysis-Thesis_Postgraduate_studies_on_WSB/blob/master/screenshot_2022-05-30%2012h06_47_Anonymous.png "Optional skills")
